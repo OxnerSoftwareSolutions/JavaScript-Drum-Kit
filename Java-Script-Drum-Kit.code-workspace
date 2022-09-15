@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Java-Script-Drum-Kit"
+		},
+		{
+			"path": "sounds"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Java-Script-Drum-Kit",
+		"liveServer.settings.port": 5501
+	}
+}
